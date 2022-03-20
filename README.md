@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+git clone https://github.com/Michaelaltinsik1/Sinus-skate-shop.git
+```
 npm install
 ```
 
@@ -14,11 +16,7 @@ npm run serve
 ```
 npm run build
 ```
+Description
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Agile group project with 4 student and myself. This is a fullstack project with a REST API backend provided by the teacher. In this project we created a shopping site
+were you can purchase different skateboard related items. There is an anonymous mode, logged in mode and an admin mode. 
