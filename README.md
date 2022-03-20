@@ -11,11 +11,17 @@ npm install
 ```
 npm run serve
 ```
+### Get database running
+```
+npm run setup
 
-### Compiles and minifies for production
+npm run seed
+
+npm start
 ```
-npm run build
-```
+
+
+
 Description
 
 Agile group project with 4 student and myself. This is a fullstack project with a REST API backend provided by the teacher. 
